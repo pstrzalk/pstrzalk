@@ -1,6 +1,6 @@
 Hi!
 
-I'm a a CTO, consultant, and have been a full-stack developer since the 90s. I'm an author of multiple articles showing a creative approach to using Ruby on Rails. Currently, I'm excited about AI's potential and cross-tech discoveries. I'm a frequent speaker at conferences and meetups and a big supporter of the European Ruby scene. I build games for fun.
+My name is Paweł. I'm a CTO, consultant, and have been a full-stack developer since the 90s. I'm an author of multiple articles showing a creative approach to using Ruby on Rails. Currently, I'm excited about AI's potential and cross-tech discoveries. I'm a frequent speaker at conferences and meetups and a big supporter of the European Ruby scene. I build games for fun.
 ## How to reach me
 Pick any platform and do not hesitate to say "hi"
 - LinkedIn: https://www.linkedin.com/in/pawel-strzalkowski/
