@@ -1,12 +1,25 @@
 Hi!
+
 I'm a a CTO, consultant, and have been a full-stack developer since the 90s. I'm an author of multiple articles showing a creative approach to using Ruby on Rails. Currently, I'm excited about AI's potential and cross-tech discoveries. I'm a frequent speaker at conferences and meetups and a big supporter of the European Ruby scene. I build games for fun.
-## Presentations
+## How to reach me
+Pick any platform and do not hesitate to say "hi"
+- LinkedIn: https://www.linkedin.com/in/pawel-strzalkowski/
+- Blue Sky: https://bsky.app/profile/realpawels.bsky.social
+- Mastodon: https://ruby.social/@pawelstrzalkowski
+- X: https://x.com/realPawelS
+## Chosen Repositories
+- Tetris in Ruby on Rails - https://github.com/pstrzalk/tetris-on-rails
+- Presentation Tool - https://github.com/pstrzalk/presentation-on-rails
+- Time Tracking Tool - https://github.com/pstrzalk/time-on-rails
+- "I'm 41 but I still can Vibe Code" - https://github.com/pstrzalk/vibe-coding
+- DDD Example App in Rails - https://github.com/pstrzalk/ddd-example-in-ruby-on-rails
+## My Presentations
 ### Event Sourcing
 - "Introduction to Event Sourcing and how to do it in Ruby" at Warsaw Ruby User Group, https://www.youtube.com/watch?v=vgpE7e_Wk5c
 - "Introduction To Event Sourcing How To Use It With Ruby" at wroc_love.rb 2022, https://www.youtube.com/watch?v=o_PuVhFH6U0
 ## Game development in Ruby on Rails
-- Rails Permanent Job - build a Ruby on Rails server using ServerEngine at Ruby Warsaw Community Conference, https://www.youtube.com/watch?v=nRrxWJ4BExQ
-- Rails as a Real-Time, Multiplayer Game Engine, at Rails World, Toronto 2024
+- "Rails Permanent Job - build a Ruby on Rails server using ServerEngine" at Ruby Warsaw Community Conference, https://www.youtube.com/watch?v=nRrxWJ4BExQ
+- "Rails as a Real-Time, Multiplayer Game Engine", at Rails World, Toronto 2024
 ### DDD Webinar
 - "Domain Modeling in Ruby on Rails with introduction to Domain-Driven Design" at Visuality DDD Webinar Part 1, https://www.youtube.com/watch?v=94Atco5-tRQ
 - "How to use DDD with Ruby on Rails, the path of a domain-driven warrior" at at Visuality DDD Webinar Part 2, https://www.youtube.com/watch?v=tUfc7t9JW-8
@@ -17,13 +30,13 @@ I'm a a CTO, consultant, and have been a full-stack developer since the 90s. I'm
 - "Creativity: The only skill you need in the long term" at Balkan Ruby 2025, https://www.youtube.com/watch?v=wSTopJCS3Iw
 - "The joy of creativity in the age of AI" at Ruby Community Conference 2025, https://www.youtube.com/watch?v=SFLHBYLgJdI
 ### Podcasts
-- Domain Driven Design? A komu to potrzebne? Wywiad z Pawłem Strzałkowskim, https://www.youtube.com/watch?v=UD8NnD0e37M
+- "Domain Driven Design? A komu to potrzebne?" Wywiad z Pawłem Strzałkowskim, https://www.youtube.com/watch?v=UD8NnD0e37M
 ### Panel Discussions
 - "How to check security of a Ruby on Rails App?", https://www.youtube.com/watch?v=Pv25FaAOAsI
 ### Miscellaneous:
 - "Fuzzy Text Search in Ruby" at Warsaw Ruby User Group, https://www.youtube.com/watch?v=tIK7pN7LDUU
 - "It can't be run locally" at PLRUG, Warsaw, https://www.youtube.com/watch?v=99H4SI7Iu1A
-## Articles
+## My Articles
 - Vector Search in Ruby, https://www.visuality.pl/posts/vector-search-in-ruby
 - LLM Embeddings in Ruby, https://www.visuality.pl/posts/llm-embeddings-in-ruby
 - Tetris on Rails, https://www.visuality.pl/posts/tetris-on-rails
@@ -38,3 +51,7 @@ I'm a a CTO, consultant, and have been a full-stack developer since the 90s. I'm
     - Example Application, https://www.visuality.pl/posts/example-application-ddd-in-ruby-on-rails
 - How to rescue a transaction to roll back changes?, https://www.visuality.pl/posts/how-to-rescue-a-transaction-to-roll-back-changes
 - Safe data migrations in Rails, https://www.visuality.pl/posts/safe-data-migrations-in-rails
+## Workshops
+- "Game Development in Ruby on Rails"
+  - https://www.youtube.com/watch?v=VrwPk5X9CDs
+  - https://www.visuality.pl/workshops/game-development-in-ruby-on-rails
