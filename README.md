@@ -51,6 +51,12 @@ Pick any platform and do not hesitate to say "hi"
     - Example Application, https://www.visuality.pl/posts/example-application-ddd-in-ruby-on-rails
 - How to rescue a transaction to roll back changes?, https://www.visuality.pl/posts/how-to-rescue-a-transaction-to-roll-back-changes
 - Safe data migrations in Rails, https://www.visuality.pl/posts/safe-data-migrations-in-rails
+- Model Context Protocol (MCP)
+  - Ruby on Rails and Model Context Protocol - https://www.visuality.pl/posts/ruby-on-rails-and-model-context-protocol
+  - MCP Server with Rails and FastMCP - https://www.visuality.pl/posts/mcp-server-with-rails-and-fastmcp
+  - MCP Server with Rails and ActionMCP - https://www.visuality.pl/posts/mcp-server-with-rails-and-actionmcp
+  - MCP Client in Rails using ruby-mcp-client gem - https://www.visuality.pl/posts/mcp-client-with-rails-and-ruby-mcp-client-gem
+  - MCP Template for Rails applications - https://www.visuality.pl/posts/mcp-template-for-rails-applications
 ## Workshops
 - "Game Development in Ruby on Rails"
   - https://www.youtube.com/watch?v=VrwPk5X9CDs
