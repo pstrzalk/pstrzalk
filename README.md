@@ -8,27 +8,32 @@ Pick any platform and do not hesitate to say "hi"
 - Mastodon: https://ruby.social/@pawelstrzalkowski
 - X: https://x.com/realPawelS
 ## Chosen Repositories
+- MCP in Ruby on Rails - https://github.com/pstrzalk/mcp-on-rails
+- MCP Host in Ruby on Rails - https://github.com/pstrzalk/mcp-host-on-rails
 - Tetris in Ruby on Rails - https://github.com/pstrzalk/tetris-on-rails
 - Presentation Tool - https://github.com/pstrzalk/presentation-on-rails
 - Time Tracking Tool - https://github.com/pstrzalk/time-on-rails
 - "I'm 41 but I still can Vibe Code" - https://github.com/pstrzalk/vibe-coding
 - DDD Example App in Rails - https://github.com/pstrzalk/ddd-example-in-ruby-on-rails
 ## My Presentations
+
+### AI / LLMs
+- "AI Interface in 5 Minutes - Model Context Protocol on Rails", https://www.youtube.com/watch?v=9Ij63xgLHE4
+- "Make Rails AI-Ready by Design with the Model Context Protocol", https://www.youtube.com/watch?v=IYAWJQ_HSQs
+- "The joy of creativity in the age of AI" at Ruby Community Conference 2025, https://www.youtube.com/watch?v=SFLHBYLgJdI
+- "RAG and Vector Search in Ruby on Rails" at Madrid Ruby User Group, https://www.youtube.com/watch?v=KxGZv7Z4BQs
+- "My LLM is smarter than yours" and at PLURG, Warsaw, https://www.youtube.com/watch?v=U1iixGneX5w
+- "Creativity: The only skill you need in the long term" at Balkan Ruby 2025, https://www.youtube.com/watch?v=wSTopJCS3Iw
+### DDD Webinar
+- "Domain Modeling in Ruby on Rails with introduction to Domain-Driven Design" at Visuality DDD Webinar Part 1, https://www.youtube.com/watch?v=94Atco5-tRQ
+- "How to use DDD with Ruby on Rails, the path of a domain-driven warrior" at at Visuality DDD Webinar Part 2, https://www.youtube.com/watch?v=tUfc7t9JW-8
+- "Aggregate Pattern" at Visuality DDD Webinar Part 4, https://www.youtube.com/watch?v=8TysidyIRbM
 ### Event Sourcing
 - "Introduction to Event Sourcing and how to do it in Ruby" at Warsaw Ruby User Group, https://www.youtube.com/watch?v=vgpE7e_Wk5c
 - "Introduction To Event Sourcing How To Use It With Ruby" at wroc_love.rb 2022, https://www.youtube.com/watch?v=o_PuVhFH6U0
 ## Game development in Ruby on Rails
 - "Rails Permanent Job - build a Ruby on Rails server using ServerEngine" at Ruby Warsaw Community Conference, https://www.youtube.com/watch?v=nRrxWJ4BExQ
 - "Rails as a Real-Time, Multiplayer Game Engine", at Rails World, Toronto 2024
-### DDD Webinar
-- "Domain Modeling in Ruby on Rails with introduction to Domain-Driven Design" at Visuality DDD Webinar Part 1, https://www.youtube.com/watch?v=94Atco5-tRQ
-- "How to use DDD with Ruby on Rails, the path of a domain-driven warrior" at at Visuality DDD Webinar Part 2, https://www.youtube.com/watch?v=tUfc7t9JW-8
-- "Aggregate Pattern" at Visuality DDD Webinar Part 4, https://www.youtube.com/watch?v=8TysidyIRbM
-### AI / LLMs
-- "RAG and Vector Search in Ruby on Rails" at Madrid Ruby User Group, https://www.youtube.com/watch?v=KxGZv7Z4BQs
-- "my LLM is smarter than yours" and at PLURG, Warsaw, https://www.youtube.com/watch?v=U1iixGneX5w
-- "Creativity: The only skill you need in the long term" at Balkan Ruby 2025, https://www.youtube.com/watch?v=wSTopJCS3Iw
-- "The joy of creativity in the age of AI" at Ruby Community Conference 2025, https://www.youtube.com/watch?v=SFLHBYLgJdI
 ### Podcasts
 - "Domain Driven Design? A komu to potrzebne?" Wywiad z Pawłem Strzałkowskim, https://www.youtube.com/watch?v=UD8NnD0e37M
 ### Panel Discussions
