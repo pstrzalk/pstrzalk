@@ -21,6 +21,9 @@ Find me at [my GitHub profile](https://github.com/pstrzalk) and on my projects:
 
 I have given a number of presentations at meetups and conferences. Some of them travelled to more than one event, so they are grouped by talk with a link to each recording:
 
+**MCP & OAuth on Rails: Building a Production-Ready AI App**
+* [Tropical on Rails 2026, São Paulo, Brazil](https://www.youtube.com/watch?v=11iZd_7OPds)
+
 **Make Rails AI-Ready by Design with the Model Context Protocol**
 * [Rails World 2025, Amsterdam](https://www.youtube.com/watch?v=8WkD7Bj_yIw)
 
@@ -42,6 +45,16 @@ I have given a number of presentations at meetups and conferences. Some of them 
 * [wroc_love.rb 2022](https://www.youtube.com/watch?v=Ks1tk7Vq0HA)
 
 More on my [RubyEvents profile](https://www.rubyevents.org/profiles/pstrzalk).
+
+## I run workshops
+
+I also run hands-on workshops, helping teams make their Rails applications AI-native:
+
+**Workshop: Model Context Protocol in Ruby on Rails**
+* [Ruby Community Conference Winter Edition 2026, Poland](https://www.rubyevents.org/talks/workshop-model-context-protocol-in-ruby-on-rails)
+
+**Building a Production-Ready AI App: MCP & OAuth on Rails**
+* [wroclove.rb 2026, Poland](https://www.rubyevents.org/talks/building-a-production-ready-ai-app-mcp-oauth-on-rails)
 
 ## I write articles
 
